@@ -1,0 +1,5 @@
+# Needed to TRAIN on your own machine (includes everything in requirements.txt)
+-r requirements.txt
+pandas
+scikit-learn
+joblib

@@ -1,0 +1,6 @@
+Put the Kaggle GTZAN files here so you end up with:
+
+data/
+  features_30_sec.csv
+  genres_original/
+    blues/ classical/ country/ disco/ hiphop/ jazz/ metal/ pop/ reggae/ rock/   (each with .wav files)

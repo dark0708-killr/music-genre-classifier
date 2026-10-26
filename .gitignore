@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.streamlit/secrets.toml
+data/*
+!data/PUT_GTZAN_HERE.txt
+*.wav
+*.mp3
